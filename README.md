@@ -1,12 +1,12 @@
 ### Quickstart
 ```
-cd SPITfund
+cd CSEfund
 yarn
 yarn start
 ```
 
 ```
-cd SPITfund
+cd CSEfund
 cd contracts
 yarn
 yarn hardhat deploy
